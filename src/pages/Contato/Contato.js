@@ -19,8 +19,8 @@ const Contato = () => {
     <div className="redes-sociais">
     <br /><br />
       <p className="siga">Siga-me nas redes sociais:</p>
-      <SiMinutemailer size={21} color="rgb(56, 56, 56)"   /> 
-      <p> marciatadakuma@gmail.com</p>  
+      <p className='email'> <SiMinutemailer size={21} color="rgb(56, 56, 56)"/>  marciatadakuma@gmail.com</p> 
+       
       
       <div>
         <a href="https://github.com/marciatkm" target="_blank" rel="noreferrer">
