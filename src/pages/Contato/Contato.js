@@ -19,10 +19,9 @@ const Contato = () => {
     <div className="redes-sociais">
     <br /><br />
       <p className="siga">Siga-me nas redes sociais:</p>
-      <a >
       <SiMinutemailer size={21} color="rgb(56, 56, 56)"   /> 
       <p> marciatadakuma@gmail.com</p>  
-      </a>
+      
       <div>
         <a href="https://github.com/marciatkm" target="_blank" rel="noreferrer">
           <DiGithubBadge size={92} color="rgb(56, 56, 56)"/>
