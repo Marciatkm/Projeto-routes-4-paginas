@@ -21,7 +21,7 @@ const Contato = () => {
       <p className="siga">Siga-me nas redes sociais:</p>
       <a >
       <SiMinutemailer size={21} color="rgb(56, 56, 56)"   /> 
-               marciatadakuma@gmail.com
+      <p> marciatadakuma@gmail.com</p>  
       </a>
       <div>
         <a href="https://github.com/marciatkm" target="_blank" rel="noreferrer">
