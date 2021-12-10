@@ -1,7 +1,9 @@
-import Menu from '../../Menu/Menu'
-import Header from '../../Header/Header'
+import Menu from '../../componentes/Menu/Menu'
+import Header from '../../componentes/Header/Header'
+import Footer from '../../componentes/Footer/Footer'
 import ImageSobre from '../../assets/sobre.svg'
-import Footer from '../../Footer/Footer'
+
+
 
 
 import '../Sobre/sobre.styles.css'
@@ -12,7 +14,7 @@ const Sobre = () => {
     <Menu />
     <Header image={ImageSobre}>Sobre mim</Header>
     <div className='main'>
-      <img src="https://i.picasion.com/pic91/b5b0f31f7b065ba1c53de0f554fef78b.gif" alt="foto" />
+      <img src="https://j.gifs.com/Y7lgwY.gif" alt="foto" />
       <div>
         <h2>Márcia Tadakuma</h2>
         <p>Desenvolvedora Jr</p>

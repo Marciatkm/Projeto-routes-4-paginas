@@ -2,10 +2,10 @@
 import { TiSocialLinkedinCircular,TiSocialInstagramCircular} from 'react-icons/ti'
 import { DiGithubBadge } from 'react-icons/di'
 import { SiMinutemailer } from 'react-icons/si'
-import Menu from '../../Menu/Menu'
-import Header from '../../Header/Header'
+import Menu from '../../componentes/Menu/Menu'
+import Header from '../../componentes/Header/Header'
 import ImageContato from '../../assets/contato.svg'
-import Footer from '../../Footer/Footer'
+import Footer from '../../componentes/Footer/Footer'
 
 import '../Contato/contato.styles.css'
 

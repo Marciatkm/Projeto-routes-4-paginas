@@ -1,8 +1,8 @@
 import {useState, useEffect} from 'react'
 import { BsArrowReturnRight } from 'react-icons/bs'
-import Menu from '../../Menu/Menu'
-import Header from '../../Header/Header'
-import Footer from '../../Footer/Footer'
+import Menu from '../../componentes/Menu/Menu'
+import Header from '../../componentes/Header/Header'
+import Footer from '../../componentes/Footer/Footer'
 import ImagePortfolio from '../../assets/portfolio.svg'
 import '../Portfolio/portfolio.styles.css'
 

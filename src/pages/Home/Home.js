@@ -1,8 +1,7 @@
-import Menu from '../../Menu/Menu'
-import Header from '../../Header/Header'
+import Menu from '../../componentes/Menu/Menu'
+import Header from '../../componentes/Header/Header'
+import Footer from '../../componentes/Footer/Footer'
 import ImageHome from '../../assets/home.svg'
-import Footer from '../../Footer/Footer'
-
 import "../Home/home.styles.css"
 
 const Home = () => {
